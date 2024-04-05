@@ -1,3 +1,3 @@
 module.exports = {
-    base: '/vitepress_docs/' // Change 'repo' to the name of your repository
+    base: '/vitepress_docs/' // Change '' to the name of your repository
   }
